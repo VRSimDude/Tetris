@@ -39,3 +39,13 @@
 
 # debug information files
 *.dwo
+
+# Visual Studio user specific files
+.vs/
+*.vcxproj.user
+
+# binary and intermediate files
+.bin/
+Build/
+_out/
+_tmp/
