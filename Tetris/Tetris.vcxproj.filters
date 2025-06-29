@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="src\main.cpp" />
+    <ClCompile Include="src\Playfield.cpp" />
+    <ClCompile Include="src\Player.cpp" />
+    <ClCompile Include="src\Vector2.hpp" />
+    <ClCompile Include="src\Game.cpp" />
+    <ClCompile Include="src\UI.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="src\Playfield.hpp" />
+    <ClInclude Include="src\Player.hpp" />
+    <ClInclude Include="src\Object.hpp" />
+    <ClInclude Include="src\Game.h" />
+    <ClInclude Include="src\Game.hpp" />
+    <ClInclude Include="src\UI.hpp" />
+  </ItemGroup>
+</Project>
